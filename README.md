@@ -1,2 +1,2 @@
-# Data-Structure-C-Programming
-Understanding Data Structures using C Programming language
+Programming 
+Coding on different types of topic related to data structures, graphics using C and also basic programming in java
